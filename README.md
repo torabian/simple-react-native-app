@@ -7,5 +7,6 @@ Feel free to use any kind of react native queries.
 
 Form data is not going to any server, it's just a timeout.
 
+![alt text](preview.gif "Preview")
 
 
